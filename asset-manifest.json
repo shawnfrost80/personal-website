@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.aec6ae50.chunk.css",
-    "main.js": "/personal-website/static/js/main.1895123a.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.1895123a.chunk.js.map",
-    "runtime-main.js": "/personal-website/static/js/runtime-main.8427405a.js",
-    "runtime-main.js.map": "/personal-website/static/js/runtime-main.8427405a.js.map",
-    "static/js/2.2f316f99.chunk.js": "/personal-website/static/js/2.2f316f99.chunk.js",
-    "static/js/2.2f316f99.chunk.js.map": "/personal-website/static/js/2.2f316f99.chunk.js.map",
-    "index.html": "/personal-website/index.html",
-    "static/css/main.aec6ae50.chunk.css.map": "/personal-website/static/css/main.aec6ae50.chunk.css.map",
-    "static/js/2.2f316f99.chunk.js.LICENSE.txt": "/personal-website/static/js/2.2f316f99.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/personal-website/static/media/coding_wallppaper.9decca57.jpg",
-    "static/media/email.331b6e97.svg": "/personal-website/static/media/email.331b6e97.svg",
-    "static/media/github.4e3f6662.svg": "/personal-website/static/media/github.4e3f6662.svg",
-    "static/media/instagram.68f82812.svg": "/personal-website/static/media/instagram.68f82812.svg",
-    "static/media/linkedin.09e78e0b.svg": "/personal-website/static/media/linkedin.09e78e0b.svg",
-    "static/media/twitter.536733a8.svg": "/personal-website/static/media/twitter.536733a8.svg"
+    "main.css": "/static/css/main.b444fe59.chunk.css",
+    "main.js": "/static/js/main.1895123a.chunk.js",
+    "main.js.map": "/static/js/main.1895123a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01539f98.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01539f98.js.map",
+    "static/js/2.7d0d137d.chunk.js": "/static/js/2.7d0d137d.chunk.js",
+    "static/js/2.7d0d137d.chunk.js.map": "/static/js/2.7d0d137d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b444fe59.chunk.css.map": "/static/css/main.b444fe59.chunk.css.map",
+    "static/js/2.7d0d137d.chunk.js.LICENSE.txt": "/static/js/2.7d0d137d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/coding_wallppaper.9decca57.jpg",
+    "static/media/email.331b6e97.svg": "/static/media/email.331b6e97.svg",
+    "static/media/github.4e3f6662.svg": "/static/media/github.4e3f6662.svg",
+    "static/media/instagram.68f82812.svg": "/static/media/instagram.68f82812.svg",
+    "static/media/linkedin.09e78e0b.svg": "/static/media/linkedin.09e78e0b.svg",
+    "static/media/twitter.536733a8.svg": "/static/media/twitter.536733a8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8427405a.js",
-    "static/js/2.2f316f99.chunk.js",
-    "static/css/main.aec6ae50.chunk.css",
+    "static/js/runtime-main.01539f98.js",
+    "static/js/2.7d0d137d.chunk.js",
+    "static/css/main.b444fe59.chunk.css",
     "static/js/main.1895123a.chunk.js"
   ]
 }
