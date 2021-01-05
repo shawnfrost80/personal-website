@@ -1,5 +1,5 @@
 # Website link:
-shawnfrost80.github.io/personal-website/
+[open](shawnfrost80.github.io/personal-website/)
 
 # Getting Started with Create React App
 
