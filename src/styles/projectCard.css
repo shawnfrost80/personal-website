@@ -1,0 +1,32 @@
+.projectCard {
+    width: 25%;
+    height: 20%;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 10px 10px 10px 15px;
+    /* backdrop-filter: blur(5px); */
+    border-radius: 20px;
+    margin: 20px 40px 20px 0px;
+    text-align: center;
+    transition-property: transform;
+    transition-duration: 0.4s;
+}
+
+.projectCard:hover {
+    transform: scale(1.1);
+    box-shadow: 2px 2px 5px black;
+}
+
+.projectHeading {
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+
+.projectImage {
+    width: 100%;
+    height: 100%;
+}
+
+.projectSubHeading {
+    font-size: 18px;
+}

@@ -1,0 +1,90 @@
+.mainPage {
+    top: 0;
+    left: 0;
+    width: "100%";
+    height: "100%";
+    position: "absolute"
+}
+
+body {
+    background-image: url("./assets/image/coding_wallppaper.jpg");
+    background-size: cover;
+}
+
+.tintedLayer {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.layer {
+    background-color: rgba(255, 255, 225, 0.15);
+    backdrop-filter: blur(10px);
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    visibility: hidden;
+    transition-property: opacity;
+    transition-duration: 0.4s;
+}
+
+.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.drawerIcon {
+    top: 0;
+    left: 0;
+    margin: 25px 25px 25px 25px;
+    width: 2%;
+    height: 2%;
+    position: fixed;
+    z-index: 999;
+    /* display: inline-block; */
+    cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+  }
+  
+.change .bar2 {opacity: 0;}
+  
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+}
+
+.loader {
+    border: 10px solid #f3f3f3; /* Light grey */
+    border-top: 10px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

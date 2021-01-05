@@ -1,0 +1,14 @@
+.elements {
+    font-size: large;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 10%;
+    transition-duration: 0.4s;
+    transition-property: font-size;
+    cursor: pointer;
+}
+
+.elements:hover {
+    font-size: x-large;
+    text-shadow: -2px -2px 2px 27aca7;
+    color: #27aca7;
+}

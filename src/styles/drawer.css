@@ -1,0 +1,36 @@
+.drawerContainer {
+    top: 0;
+    left: 0;
+    position: relative;
+    padding: 10% 40px 0 40px;
+    display: flex;
+    opacity: 1;
+    visibility: visible;
+    transition-property: opacity;
+    transition-duration: 0.4s;
+    justify-content: space-around;
+}
+
+.elementContainer {
+    width: 250px;
+    height: 300px;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 20px;
+    padding: 50px 50px 50px 50px;
+}
+
+.hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.profileContainer {
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+    justify-content: center;
+}

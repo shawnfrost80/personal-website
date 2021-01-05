@@ -1,0 +1,24 @@
+.contactContentContainer {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    width: 27%;
+    word-wrap: break-word;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    transition-property: transform;
+    transition: 0.4s;
+    padding: 10px 20px 0px 20px;
+    align-content: center;
+    cursor: pointer;
+}
+
+.contactContentContainer:hover {
+    background-color: rgba(39, 172, 167, 0.6);
+    backdrop-filter: blur(5px);
+    box-shadow: 0 0 1px black;
+    transform: scale(1.1);
+}
+
+.contactCardDetails {
+    font-size: 25px;
+}

@@ -1,0 +1,23 @@
+.homeComponent {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    /* transform: translateY(-50%); */
+}
+
+.head {
+    font-size: 60px;
+    text-shadow: 0 0 1px black;
+}
+
+.name {
+    color: #27aca7;
+}
+
+.intro {
+    font-size: 200%;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 5px 10px 5px 10px;
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+}

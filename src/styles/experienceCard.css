@@ -1,0 +1,20 @@
+.card {
+    max-width: 450px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px 10px 10px 15px;
+    border-radius: 20px;
+    margin: 20px 40px 60px 0px;
+}
+
+.cardHeading {
+    font-size: 25px;
+}
+
+.cardSubHeading {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.content {
+    font-size: 18px;
+}
